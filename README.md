@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **mhassan654/mhassan654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda. -->
+- Hi I'm **Hassan** and working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- I mostly use PHP Laravel Framework for backend.
+- React and Vue for Frontend
+
+- In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- Let's connect <a href="https://twitter.com/mtvbrianking">@muwonge65 </a>
