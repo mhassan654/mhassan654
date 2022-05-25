@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 - In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- Let's connect <a href="https://twitter.com/mtvbrianking">@muwonge65 </a>
+- Let's connect <a href="https://twitter.com/muwonge5">@muwonge5 </a>
