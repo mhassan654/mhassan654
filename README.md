@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 <!-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda. -->
 - Hi I'm **Hassan** and working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- I mostly use PHP Laravel Framework for backend.
-- React and Vue for Frontend
+- I mostly use PHP Laravel Framework and ASP.net Core for backend.
+- I develop mobile apps using Kotlin with jetpack Compose
+- React and Vue for Frontend plus inertia
+- C# for desktop
 
 - In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
